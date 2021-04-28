@@ -1,0 +1,181 @@
+body {
+  padding-top: 0px;
+}
+
+.navbar{
+  padding-top: 0%;
+  background-color:#7ed321;
+}
+
+.btn{
+  background-color:white;
+}
+
+.btnresp{
+  background-color:black;
+}
+
+.fontpesq{
+  color: black;
+  font-size: 15px;
+}
+
+.h4foot{
+  color:black;
+}
+
+.fontnav{
+  color: black;
+  font-size: 17px;
+}
+
+.footer{
+  background-color: #7ed321;
+}
+
+.fontfoot{
+  color: black;
+  font-size: 16px;
+}
+
+.pesquisa{
+  align-self: right;
+  margin: 0;
+  float: none;
+  min-width: 30%;
+}
+
+.bodyproduto{
+  padding-top: 90px;
+}
+
+.bodyadd{
+  padding-top: 150px;
+}
+
+.bodyadd1{
+  padding-top: 30px;
+}
+
+.fixarRodape{
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.fixarRodape1{
+  width: 100%;
+  height: 522px;
+  position: relative;
+}
+
+.bodysobre {
+padding-top: 256px;
+font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 15px;
+color: #b9b9b9;
+background-color: #e3e3e3;
+}
+
+.bodylogin {
+  padding-top: 200px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #b9b9b9;
+  background-color: #e3e3e3;
+  }
+
+.bodyavaliacao {
+  padding-top: 162px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  }
+
+.bodyprod {
+  padding-top: 85px;
+  background-color: #ffffff;
+}
+
+.bodyconta {
+  padding-top: 10px;
+  background-color: #ffffff;
+}
+
+.bodyconta1 {
+  padding-top: 40px;
+  background-color: #ffffff;
+}
+
+.bodycar {
+  padding-top: 200px;
+  background-color: #ffffff;
+}
+
+.bodycar1 {
+  background-color: #ffffff;
+}
+
+.btnlogin{
+  float: right;
+}
+
+.bodypag{
+  padding-top: 124px;
+}
+
+.body-content{
+  margin-bottom: 40px;
+}
+
+.carddado{
+  margin: 20px;
+}
+
+.direitaproduto{
+  float: right;
+}
+
+.centralizaimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.centralizatext{
+  height: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center 
+}
+
+.btnpesq{
+  height: 39px;
+}
+
+.cardprod{
+  min-width: 25px; 
+}
+
+.textarea {
+  resize: none;
+}
+
+#TABLE01 td{
+  border:none !important;
+}
+
+#TABLE02 td{
+  border:none !important;
+}
+
+#TABLE03 td{
+  border:none !important;
+}
+
+.textpreco{
+  background-color: white;
+}
+
+.card1{
+  height: 10px;
+}
